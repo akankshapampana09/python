@@ -1,0 +1,8 @@
+a=int(input('enter a:'))
+b=int(input('enter b:'))
+c=a/b
+print(c)
+
+enter a:144
+enter b:12
+12.0
